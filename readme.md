@@ -1,3 +1,5 @@
 # Practice 
 
-pRACTICE REPOSITORY FOR joSE
+Practice repository for Jose
+
+
